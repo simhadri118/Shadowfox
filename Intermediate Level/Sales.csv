@@ -1,0 +1,59 @@
+Order Date,Region,Category,Product Name,Quantity,Sales,Discount,Final Price,Profit
+01-01-2024,West,Technology,Laptop,2,1000,0.05,950,190
+02-01-2024,East,Furniture,Chair,5,500,0.02,490,98
+03-01-2024,South,Office Supplies,Printer,3,600,0.05,570,114
+04-01-2024,North,Technology,Mobile,4,800,0.05,760,152
+05-01-2024,West,Furniture,Table,2,700,0.05,665,133
+06-01-2024,East,Technology,Tablet,3,900,0.05,855,171
+07-01-2024,South,Furniture,Sofa,1,1200,0.1,1080,216
+08-01-2024,North,Office Supplies,Pen,10,200,0.02,196,39.2
+09-01-2024,West,Technology,Monitor,2,600,0.05,570,114
+10-01-2024,East,Furniture,Bed,1,1500,0.1,1350,270
+11-01-2024,South,Technology,Laptop,2,1100,0.1,990,198
+12-01-2024,North,Furniture,Chair,6,600,0.05,570,114
+13-01-2024,West,Office Supplies,Notebook,8,320,0.02,313.6,62.72
+14-01-2024,East,Technology,Mobile,3,900,0.05,855,171
+15-01-2024,South,Furniture,Table,2,800,0.05,760,152
+16-01-2024,North,Technology,Printer,2,700,0.05,665,133
+17-01-2024,West,Furniture,Sofa,1,1300,0.1,1170,234
+18-01-2024,East,Office Supplies,Pen,12,240,0.02,235.2,47.04
+19-01-2024,South,Technology,Monitor,2,650,0.05,617.5,123.5
+20-01-2024,North,Furniture,Bed,1,1400,0.1,1260,252
+21-01-2024,West,Technology,Tablet,3,950,0.05,902.5,180.5
+22-01-2024,East,Furniture,Chair,4,480,0.02,470.4,94.08
+23-01-2024,South,Office Supplies,Notebook,6,300,0.02,294,58.8
+24-01-2024,North,Technology,Laptop,2,1200,0.1,1080,216
+25-01-2024,West,Furniture,Table,3,900,0.05,855,171
+26-01-2024,East,Technology,Mobile,5,1500,0.1,1350,270
+27-01-2024,South,Furniture,Sofa,1,1250,0.1,1125,225
+28-01-2024,North,Office Supplies,Printer,2,750,0.05,712.5,142.5
+29-01-2024,West,Technology,Monitor,3,900,0.05,855,171
+30-01-2024,East,Furniture,Bed,1,1600,0.1,1440,288
+01-02-2024,South,Technology,Laptop,2,1150,0.1,1035,207
+02-02-2024,North,Furniture,Chair,5,550,0.05,522.5,104.5
+03-02-2024,West,Office Supplies,Pen,15,300,0.02,294,58.8
+04-02-2024,East,Technology,Tablet,4,1200,0.1,1080,216
+05-02-2024,South,Furniture,Table,2,850,0.05,807.5,161.5
+06-02-2024,North,Technology,Mobile,3,950,0.05,902.5,180.5
+07-02-2024,West,Furniture,Sofa,1,1350,0.1,1215,243
+08-02-2024,East,Office Supplies,Notebook,7,350,0.02,343,68.6
+09-02-2024,South,Technology,Monitor,2,700,0.05,665,133
+10-02-2024,North,Furniture,Bed,1,1450,0.1,1305,261
+11-02-2024,West,Technology,Laptop,2,1250,0.1,1125,225
+12-02-2024,East,Furniture,Chair,6,650,0.05,617.5,123.5
+13-02-2024,South,Office Supplies,Printer,3,700,0.05,665,133
+14-02-2024,North,Technology,Tablet,3,1000,0.05,950,190
+15-02-2024,West,Furniture,Table,2,950,0.05,902.5,180.5
+16-02-2024,East,Technology,Mobile,4,1300,0.1,1170,234
+17-02-2024,South,Furniture,Sofa,1,1400,0.1,1260,252
+18-02-2024,North,Office Supplies,Pen,14,280,0.02,274.4,54.88
+19-02-2024,West,Technology,Monitor,3,1000,0.05,950,190
+20-02-2024,East,Furniture,Bed,1,1700,0.1,1530,306
+21-02-2024,South,Technology,Laptop,2,1300,0.1,1170,234
+22-02-2024,North,Furniture,Chair,5,600,0.05,570,114
+23-02-2024,West,Office Supplies,Notebook,9,400,0.02,392,78.4
+24-02-2024,East,Technology,Tablet,3,1050,0.1,945,189
+25-02-2024,South,Furniture,Table,2,900,0.05,855,171
+26-02-2024,North,Technology,Mobile,4,1100,0.1,990,198
+27-02-2024,West,Furniture,Sofa,1,1450,0.1,1305,261
+28-02-2024,East,Office Supplies,Printer,2,800,0.05,760,152
